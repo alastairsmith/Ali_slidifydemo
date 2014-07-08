@@ -11,30 +11,22 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
-
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
-
---- .class #id 
-
-## Slide 2
-
 ## Things to do this week
 
-*Write best man speech
-*Submit Data Scientists Toolbox assignment
-*Get 20/20 on DST Quiz 3
-*Start R Programming course
-*explore the ebooks I bought
+
+1. Write best man speech
+2. Submit Data Scientists Toolbox assignment
+3. Get 20/20 on DST Quiz 3
+4. Start R Programming course
+5. explore the ebooks I bought
 
 ---
 
 ## Things to sort out before end of August
 
-*Research the best tools to become paperless and efficient in storing notes
-*Get comfortable with git, github and RStudio (Can you use git from within RStudio?)
+
+1. Research the best tools to become paperless and efficient in storing notes
+2. Get comfortable with git, github and RStudio (Can you use git from within RStudio?)
 
 ---
 
