@@ -14,12 +14,12 @@ knit        : slidify::knit2slides
 ## Things to do this week - i.e. before 14th July
 
 
-1. Write best man speech
+1. **Write best man speech** 
 2. ~~Submit Data Scientists Toolbox assignment~~
 3. ~~Get 20/20 on DST Quiz 3~~
 4. ~~Start R Programming course~~
 5. explore the ebooks I bought
-6. Be able to publish with slidify via RStudio
+6. Be able to publish with slidify via RStudio - *RStudio cant find git hub*
 
 ---
 
