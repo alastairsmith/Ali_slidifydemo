@@ -14,7 +14,7 @@ knit        : slidify::knit2slides
 ## Things to do this week - i.e. before 14th July
 
 
-1. **Write best man speech** 
+1. ~~Write best man speech~~
 2. ~~Submit Data Scientists Toolbox assignment~~
 3. ~~Get 20/20 on DST Quiz 3~~
 4. ~~Start R Programming course~~
